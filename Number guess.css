@@ -1,0 +1,76 @@
+*{
+	margin:0;
+	padding:0;
+}
+#wrapper{
+	border:1px solid black;
+	width:99%;
+	height:720px;
+}
+img.body{
+	background-image:url("game.jpg");
+}
+.topic1{
+	border:1px solid black;
+	width:450px;
+	height:50px;
+	margin-left:580px;
+	margin-top:20px;
+	font-family:"papyrus","fantacy";
+	color:white;
+}
+.topic2{
+	border:1px solid black;
+	width:250px;
+	height:30px;
+	margin-left:660px;
+	margin-top:10px;
+	font-family:"papyrus","fantacy";
+	color:white;
+}
+#sub{
+	border:1px;
+	width:670px;
+	height:460px;
+	line-height:3.0;
+	margin-left:170px;
+	margin-top:50px;
+	font-size:25px;
+	padding-left:40px;
+	color:black;
+	background-color:white;
+}
+.top{
+	margin-left:120px;
+}
+.inp{
+	margin-left:123px;
+}
+.sub1{
+	margin-left:240px;
+}
+.tot{
+	margin-left:140px;
+}
+.fin{
+	margin-left:66px;
+}
+.val{
+	margin-left:140px;
+}
+#image{
+	margin-top:-400px;
+	margin-left:950px;
+}
+#final{
+	border:1px solid white;
+	width:450px;
+	height:35px;
+	background-color:white;
+	color:black;
+	margin-left:500px;
+	margin-top:60px;
+	font-size:27px;
+	padding-top:10px;
+	padding-left:100px;
+}
